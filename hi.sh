@@ -1,1 +1,2 @@
-echo i am roshni
+echo i am roshn
+pwd
